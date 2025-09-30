@@ -1,0 +1,54 @@
+body {
+    background-color: mediumvioletred;
+}
+
+.Fondoamarillo{
+    background-color: yellow;
+}
+h2{background-color: aqua;font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;}
+
+#tituloprincipal
+{
+background-color: rgb(380,150,874);
+width: 500px;
+height: 30px;
+display: inline-block;
+}
+
+button
+{
+display: block;
+background-color: rgb(152, 17, 220);
+font-family: 'Times New Roman', Times, serif;
+}
+
+.botongris
+{
+    background-color: gray;
+
+}
+#perro
+{
+    width: 300px;
+ 
+
+}
+
+.texto2
+{
+    width: 25%;
+    height: 40vh;
+}
+#textounico
+{
+background-image: url(./imagenes/6843558.jpg);
+}
+
+ul{
+    background-color: brown;
+    width: 50%;
+}
+li
+{
+    background-color: burlywood;
+}
